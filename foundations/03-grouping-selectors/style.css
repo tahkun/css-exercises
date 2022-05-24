@@ -1,0 +1,11 @@
+.class-one {
+    font-size: 28px;
+    font-family: "Helvitaca", "Times New Roman", sans-serif;
+}
+.class-one.button-one {
+    background-color: black;
+    color: white;
+}
+.class-one.button-two {
+    background-color: yellow;
+}
