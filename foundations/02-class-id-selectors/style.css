@@ -1,0 +1,19 @@
+/* style.css */
+.class-one {
+background-color: lightpink;
+font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.class-one.unique {
+    font-size: 24px;
+}
+#id-one {
+    color:blue;
+    font-size: 36px;
+}
+
+#id-two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
